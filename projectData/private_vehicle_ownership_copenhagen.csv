@@ -1,4 +1,4 @@
-FuelType,Bydel,Lokaludvalg,Nabolag,Year,NoOfVehicles
+FuelType,CityDistrict,LocalDistrict,Neighbourhood,Year,NoOfVehicles
 Benzin,Amager Vest,Amager Vest,Amagerbro Vest,2006,1030
 Benzin,Amager Vest,Amager Vest,Amagerbro Vest,2007,1055
 Benzin,Amager Vest,Amager Vest,Amagerbro Vest,2008,1108
